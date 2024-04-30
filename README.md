@@ -1,10 +1,10 @@
 # woolyyarngo
 
-A new Flutter project.
+Flutter Project by William Go. Made for CS 4750. This application aims to be a row and stitch counter for crochet projects.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This application is being published on the Google Play Store.
 
 A few resources to get you started if this is your first Flutter project:
 
